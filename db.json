@@ -1,0 +1,248 @@
+{
+  "aboutMe": [
+    {
+      "name": "Fernando Acosta",
+      "nickName": "FerAcos",
+      "about": "Soy un desarrollador frontend apasionado por crear experiencias de usuario atractivas y funcionales. Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript. Me encanta trabajar en equipo y colaborar con diseñadores y desarrolladores para crear interfaces intuitivas y agradables. ¡Estoy emocionado de seguir creciendo como desarrollador frontend y enfrentar nuevos desafíos en el mundo de la tecnología!",
+      "rol": "Frontend",
+      "stack": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+
+  "project": [
+    {
+      "id": "1",
+      "titulo": "Show your knowledge",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "participantes": [
+        {
+          "id": 1,
+          "name": "Fernando",
+          "imgUrl": "/src/assets/participante1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Franco",
+          "imgUrl": "/src/assets/participante2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Danilo",
+          "imgUrl": "/src/assets/participante3.jpg"
+        },
+        { "id": 4, "name": "Harry", "imgUrl": "/src/assets/participante4.png" }
+      ],
+
+      "imagenes": [
+        "/src/assets/imagenSYK1.png",
+        "/src/assets/imagenSYK2.png",
+        "/src/assets/imagenSYK3.png"
+      ],
+
+      "tecnologias": [
+        { "id": 1, "name": "html", "component": "FaHtml5" },
+        {
+          "id": 2,
+          "name": "tailwind",
+          "component": "SiTailwindcss"
+        },
+        {
+          "id": 3,
+          "name": "typeScript",
+          "component": "TbBrandTypescript"
+        },
+        {
+          "id": 4,
+          "name": "zustand",
+          "component": "/src/assets/zustand.ico"
+        },
+        {
+          "id": 5,
+          "name": "react router",
+          "component": "SiReactrouter"
+        }
+      ],
+      "repositiorio": "",
+      "deploy": "",
+      "categoria": "Digital Portfolio",
+      "estado": "Propuesta",
+      "solicitudes": [
+        {
+          "roles": [{ "name": "Frontend" }, { "name": "Backend" }],
+          "id": "1",
+          "idUser": "1",
+
+          "comentario": "Me interesa mucho el proyecto, quisiera colaborar. Trabajo con react,ts y tailwind"
+        },
+        {
+          "roles": [{ "name": "Frontend" }, { "name": "Backend" }],
+          "id": "1",
+          "idUser": "1",
+
+          "comentario": "Me interesa mucho el proyecto, quisiera colaborar. Trabajo con react,ts y tailwind"
+        },
+        {
+          "roles": [{ "name": "Frontend" }, { "name": "Backend" }],
+          "id": "1",
+          "idUser": "1",
+
+          "comentario": "Me interesa mucho el proyecto, quisiera colaborar. Trabajo con react,ts y tailwind"
+        },
+        {
+          "roles": [{ "name": "Frontend" }, { "name": "Backend" }],
+          "id": "1",
+          "idUser": "1",
+
+          "comentario": "Me interesa mucho el proyecto, quisiera colaborar. Trabajo con react,ts y tailwind"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Show your knowledge 2.0",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "participantes": [
+        {
+          "id": 1,
+          "name": "Fernando",
+          "imgUrl": "/src/assets/participante1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Franco",
+          "imgUrl": "/src/assets/participante2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Danilo",
+          "imgUrl": "/src/assets/participante3.jpg"
+        },
+        { "id": 4, "name": "Harry", "imgUrl": "/src/assets/participante4.png" }
+      ],
+
+      "imagenes": [
+        "/src/assets/Imagens/ImagenWeb08.jpeg",
+        "/src/assets/imagenSYK2.png",
+        "/src/assets/imagenSYK3.png",
+        "/src/assets/imagenSYK4.png"
+      ],
+
+      "tecnologias": [
+        { "id": 1, "name": "html", "component": "FaHtml5" },
+        {
+          "id": 2,
+          "name": "tailwind",
+          "component": "SiTailwindcss"
+        },
+        {
+          "id": 3,
+          "name": "typeScript",
+          "component": "TbBrandTypescript"
+        },
+
+        {
+          "id": 5,
+          "name": "react router",
+          "component": "SiReactrouter"
+        }
+      ],
+      "repositiorio": "",
+      "deploy": "",
+      "categoria": "Digital Portfolio",
+      "estado": "Desarrollo",
+      "solicitudes": []
+    },
+    {
+      "id": "3",
+      "titulo": "Show your knowledge 3.0",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "participantes": [
+        {
+          "id": 1,
+          "name": "Fernando",
+          "imgUrl": "/src/assets/participante1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Franco",
+          "imgUrl": "/src/assets/participante2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Danilo",
+          "imgUrl": "/src/assets/participante3.jpg"
+        },
+        { "id": 4, "name": "Harry", "imgUrl": "/src/assets/participante4.png" }
+      ],
+
+      "imagenes": [
+        "/src/assets/imagenSYK1.png",
+        "/src/assets/imagenSYK2.png",
+        "/src/assets/imagenSYK3.png",
+        "/src/assets/imagenSYK4.png"
+      ],
+
+      "tecnologias": [
+        { "id": 1, "name": "html", "component": "FaHtml5" },
+        { "id": 2, "name": "tailwind", "component": "SiTailwindcss" },
+        { "id": 3, "name": "typeScript", "component": "TbBrandTypescript" },
+        { "id": 4, "name": "zustand", "component": "/src/assets/zustand.ico" },
+        { "id": 5, "name": "react router", "component": "SiReactrouter" }
+      ],
+      "repositiorio": "",
+      "deploy": "",
+      "categoria": "Digital Portfolio",
+      "estado": "Finalizado",
+      "solicitudes": []
+    },
+    {
+      "id": "4",
+      "titulo": "Tech Showcase 2.0",
+      "descripcion": "Tech Showcase 2.0 es un evento innovador que reúne a profesionales de la industria tecnológica para mostrar sus últimos proyectos y discutir las tendencias emergentes en el campo de la tecnología. Desde aplicaciones móviles hasta soluciones de inteligencia artificial, este evento promete inspirar y educar a todos los asistentes.",
+      "participantes": [],
+      "imagenes": [
+        "/src/assets/Imagens/ImagenWeb03.jpg",
+        "/src/assets/Imagens/ImagenWeb08.jpeg",
+        "/src/assets/Imagens/ImagenWeb06.jpg"
+      ],
+      "tecnologias": [
+        { "id": 1, "name": "React", "component": "FaReact" },
+        { "id": 2, "name": "Sass", "component": "FaSass" },
+        { "id": 3, "name": "Node.js", "component": "FaNodeJs" },
+        { "id": 4, "name": "Express.js", "component": "DiNodejsSmall" },
+        { "id": 5, "name": "MongoDB", "component": "DiMongodb" }
+      ],
+      "repositiorio": "",
+      "deploy": "",
+      "categoria": "Tech Showcase",
+      "estado": "Propuesto",
+      "solicitudes": []
+    }
+  ],
+
+  "rol": [
+    { "name": "Frontend" },
+    { "name": "Backend" },
+    { "name": "Fullstack" },
+    { "name": "UX/UI" },
+    { "name": "QA Tester" },
+    { "name": "Project Manager" }
+  ],
+  "categoria": [
+    { "name": "E-commerce" },
+    { "name": "Foro" },
+    { "name": "Chat app" },
+    { "name": "Multimedia" },
+    { "name": "Portafolio" },
+    { "name": "Dashboards" }
+  ],
+  "tecnologia": [
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "Tailwind" },
+    { "name": "Zustand" },
+    { "name": "Sass" },
+    { "name": "NodeJs" },
+    { "name": "MySql" }
+  ]
+}
